@@ -23,7 +23,7 @@
 <body <?php body_class(); ?>>
 <?php wp_body_open(); ?>
 <div id="page" class="site">
-	Hello these are the first changes.
+	Here I am reverting changes to check the process once the theme is activated. 
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'git-setup' ); ?></a>
 
 	<header id="masthead" class="site-header">
