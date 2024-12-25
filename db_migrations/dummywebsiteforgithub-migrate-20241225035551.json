@@ -1,0 +1,1458 @@
+{
+"wp_options":[
+ {
+  "option_id": 1,
+  "option_name": "cron",
+  "option_value": "a:12:{i:1735100015;a:1:{s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1735101815;a:1:{s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1735101818;a:1:{s:34:\"wp_privacy_delete_old_export_files\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"hourly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:3600;}}}i:1735137849;a:1:{s:21:\"wp_update_user_counts\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1735141415;a:1:{s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1735181017;a:1:{s:32:\"recovery_mode_clean_expired_keys\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1735181049;a:2:{s:19:\"wp_scheduled_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}s:25:\"delete_expired_transients\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1735181052;a:1:{s:30:\"wp_scheduled_auto_draft_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1735181072;a:1:{s:30:\"wp_delete_temp_updater_backups\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"weekly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:604800;}}}i:1735189066;a:1:{s:27:\"acf_update_site_health_data\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"weekly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:604800;}}}i:1735267417;a:1:{s:30:\"wp_site_health_scheduled_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"weekly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:604800;}}}s:7:\"version\";i:2;}",
+  "autoload": "on"
+ },
+ {
+  "option_id": 2,
+  "option_name": "siteurl",
+  "option_value": "http:\/\/sonalidev.wpenginepowered.com\/",
+  "autoload": "on"
+ },
+ {
+  "option_id": 3,
+  "option_name": "home",
+  "option_value": "http:\/\/sonalidev.wpenginepowered.com\/",
+  "autoload": "on"
+ },
+ {
+  "option_id": 4,
+  "option_name": "blogname",
+  "option_value": "TechArk Solutions Site",
+  "autoload": "on"
+ },
+ {
+  "option_id": 5,
+  "option_name": "blogdescription",
+  "autoload": "on"
+ },
+ {
+  "option_id": 6,
+  "option_name": "users_can_register",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 7,
+  "option_name": "admin_email",
+  "option_value": "gauri.techark@gmail.com",
+  "autoload": "on"
+ },
+ {
+  "option_id": 8,
+  "option_name": "start_of_week",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 9,
+  "option_name": "use_balanceTags",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 10,
+  "option_name": "use_smilies",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 11,
+  "option_name": "require_name_email",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 12,
+  "option_name": "comments_notify",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 13,
+  "option_name": "posts_per_rss",
+  "option_value": "10",
+  "autoload": "on"
+ },
+ {
+  "option_id": 14,
+  "option_name": "rss_use_excerpt",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 15,
+  "option_name": "mailserver_url",
+  "option_value": "mail.example.com",
+  "autoload": "on"
+ },
+ {
+  "option_id": 16,
+  "option_name": "mailserver_login",
+  "option_value": "login@example.com",
+  "autoload": "on"
+ },
+ {
+  "option_id": 17,
+  "option_name": "mailserver_pass",
+  "autoload": "on"
+ },
+ {
+  "option_id": 18,
+  "option_name": "mailserver_port",
+  "option_value": "110",
+  "autoload": "on"
+ },
+ {
+  "option_id": 19,
+  "option_name": "default_category",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 20,
+  "option_name": "default_comment_status",
+  "option_value": "open",
+  "autoload": "on"
+ },
+ {
+  "option_id": 21,
+  "option_name": "default_ping_status",
+  "option_value": "open",
+  "autoload": "on"
+ },
+ {
+  "option_id": 22,
+  "option_name": "default_pingback_flag",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 23,
+  "option_name": "posts_per_page",
+  "option_value": "10",
+  "autoload": "on"
+ },
+ {
+  "option_id": 24,
+  "option_name": "date_format",
+  "option_value": "F j, Y",
+  "autoload": "on"
+ },
+ {
+  "option_id": 25,
+  "option_name": "time_format",
+  "option_value": "g:i a",
+  "autoload": "on"
+ },
+ {
+  "option_id": 26,
+  "option_name": "links_updated_date_format",
+  "option_value": "F j, Y g:i a",
+  "autoload": "on"
+ },
+ {
+  "option_id": 27,
+  "option_name": "comment_moderation",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 28,
+  "option_name": "moderation_notify",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 29,
+  "option_name": "permalink_structure",
+  "option_value": "\/%postname%\/",
+  "autoload": "on"
+ },
+ {
+  "option_id": 30,
+  "option_name": "rewrite_rules",
+  "option_value": "a:94:{s:11:\"^wp-json\/?$\";s:22:\"index.php?rest_route=\/\";s:14:\"^wp-json\/(.*)?\";s:33:\"index.php?rest_route=\/$matches[1]\";s:21:\"^index.php\/wp-json\/?$\";s:22:\"index.php?rest_route=\/\";s:24:\"^index.php\/wp-json\/(.*)?\";s:33:\"index.php?rest_route=\/$matches[1]\";s:17:\"^wp-sitemap\\.xml$\";s:23:\"index.php?sitemap=index\";s:17:\"^wp-sitemap\\.xsl$\";s:36:\"index.php?sitemap-stylesheet=sitemap\";s:23:\"^wp-sitemap-index\\.xsl$\";s:34:\"index.php?sitemap-stylesheet=index\";s:48:\"^wp-sitemap-([a-z]+?)-([a-z\\d_-]+?)-(\\d+?)\\.xml$\";s:75:\"index.php?sitemap=$matches[1]&sitemap-subtype=$matches[2]&paged=$matches[3]\";s:34:\"^wp-sitemap-([a-z]+?)-(\\d+?)\\.xml$\";s:47:\"index.php?sitemap=$matches[1]&paged=$matches[2]\";s:47:\"category\/(.+?)\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:52:\"index.php?category_name=$matches[1]&feed=$matches[2]\";s:42:\"category\/(.+?)\/(feed|rdf|rss|rss2|atom)\/?$\";s:52:\"index.php?category_name=$matches[1]&feed=$matches[2]\";s:23:\"category\/(.+?)\/embed\/?$\";s:46:\"index.php?category_name=$matches[1]&embed=true\";s:35:\"category\/(.+?)\/page\/?([0-9]{1,})\/?$\";s:53:\"index.php?category_name=$matches[1]&paged=$matches[2]\";s:17:\"category\/(.+?)\/?$\";s:35:\"index.php?category_name=$matches[1]\";s:44:\"tag\/([^\/]+)\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:42:\"index.php?tag=$matches[1]&feed=$matches[2]\";s:39:\"tag\/([^\/]+)\/(feed|rdf|rss|rss2|atom)\/?$\";s:42:\"index.php?tag=$matches[1]&feed=$matches[2]\";s:20:\"tag\/([^\/]+)\/embed\/?$\";s:36:\"index.php?tag=$matches[1]&embed=true\";s:32:\"tag\/([^\/]+)\/page\/?([0-9]{1,})\/?$\";s:43:\"index.php?tag=$matches[1]&paged=$matches[2]\";s:14:\"tag\/([^\/]+)\/?$\";s:25:\"index.php?tag=$matches[1]\";s:45:\"type\/([^\/]+)\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:50:\"index.php?post_format=$matches[1]&feed=$matches[2]\";s:40:\"type\/([^\/]+)\/(feed|rdf|rss|rss2|atom)\/?$\";s:50:\"index.php?post_format=$matches[1]&feed=$matches[2]\";s:21:\"type\/([^\/]+)\/embed\/?$\";s:44:\"index.php?post_format=$matches[1]&embed=true\";s:33:\"type\/([^\/]+)\/page\/?([0-9]{1,})\/?$\";s:51:\"index.php?post_format=$matches[1]&paged=$matches[2]\";s:15:\"type\/([^\/]+)\/?$\";s:33:\"index.php?post_format=$matches[1]\";s:12:\"robots\\.txt$\";s:18:\"index.php?robots=1\";s:13:\"favicon\\.ico$\";s:19:\"index.php?favicon=1\";s:12:\"sitemap\\.xml\";s:24:\"index.php??sitemap=index\";s:48:\".*wp-(atom|rdf|rss|rss2|feed|commentsrss2)\\.php$\";s:18:\"index.php?feed=old\";s:20:\".*wp-app\\.php(\/.*)?$\";s:19:\"index.php?error=403\";s:18:\".*wp-register.php$\";s:23:\"index.php?register=true\";s:32:\"feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:27:\"index.php?&feed=$matches[1]\";s:27:\"(feed|rdf|rss|rss2|atom)\/?$\";s:27:\"index.php?&feed=$matches[1]\";s:8:\"embed\/?$\";s:21:\"index.php?&embed=true\";s:20:\"page\/?([0-9]{1,})\/?$\";s:28:\"index.php?&paged=$matches[1]\";s:41:\"comments\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:42:\"index.php?&feed=$matches[1]&withcomments=1\";s:36:\"comments\/(feed|rdf|rss|rss2|atom)\/?$\";s:42:\"index.php?&feed=$matches[1]&withcomments=1\";s:17:\"comments\/embed\/?$\";s:21:\"index.php?&embed=true\";s:44:\"search\/(.+)\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:40:\"index.php?s=$matches[1]&feed=$matches[2]\";s:39:\"search\/(.+)\/(feed|rdf|rss|rss2|atom)\/?$\";s:40:\"index.php?s=$matches[1]&feed=$matches[2]\";s:20:\"search\/(.+)\/embed\/?$\";s:34:\"index.php?s=$matches[1]&embed=true\";s:32:\"search\/(.+)\/page\/?([0-9]{1,})\/?$\";s:41:\"index.php?s=$matches[1]&paged=$matches[2]\";s:14:\"search\/(.+)\/?$\";s:23:\"index.php?s=$matches[1]\";s:47:\"author\/([^\/]+)\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:50:\"index.php?author_name=$matches[1]&feed=$matches[2]\";s:42:\"author\/([^\/]+)\/(feed|rdf|rss|rss2|atom)\/?$\";s:50:\"index.php?author_name=$matches[1]&feed=$matches[2]\";s:23:\"author\/([^\/]+)\/embed\/?$\";s:44:\"index.php?author_name=$matches[1]&embed=true\";s:35:\"author\/([^\/]+)\/page\/?([0-9]{1,})\/?$\";s:51:\"index.php?author_name=$matches[1]&paged=$matches[2]\";s:17:\"author\/([^\/]+)\/?$\";s:33:\"index.php?author_name=$matches[1]\";s:69:\"([0-9]{4})\/([0-9]{1,2})\/([0-9]{1,2})\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:80:\"index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&feed=$matches[4]\";s:64:\"([0-9]{4})\/([0-9]{1,2})\/([0-9]{1,2})\/(feed|rdf|rss|rss2|atom)\/?$\";s:80:\"index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&feed=$matches[4]\";s:45:\"([0-9]{4})\/([0-9]{1,2})\/([0-9]{1,2})\/embed\/?$\";s:74:\"index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&embed=true\";s:57:\"([0-9]{4})\/([0-9]{1,2})\/([0-9]{1,2})\/page\/?([0-9]{1,})\/?$\";s:81:\"index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&paged=$matches[4]\";s:39:\"([0-9]{4})\/([0-9]{1,2})\/([0-9]{1,2})\/?$\";s:63:\"index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]\";s:56:\"([0-9]{4})\/([0-9]{1,2})\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:64:\"index.php?year=$matches[1]&monthnum=$matches[2]&feed=$matches[3]\";s:51:\"([0-9]{4})\/([0-9]{1,2})\/(feed|rdf|rss|rss2|atom)\/?$\";s:64:\"index.php?year=$matches[1]&monthnum=$matches[2]&feed=$matches[3]\";s:32:\"([0-9]{4})\/([0-9]{1,2})\/embed\/?$\";s:58:\"index.php?year=$matches[1]&monthnum=$matches[2]&embed=true\";s:44:\"([0-9]{4})\/([0-9]{1,2})\/page\/?([0-9]{1,})\/?$\";s:65:\"index.php?year=$matches[1]&monthnum=$matches[2]&paged=$matches[3]\";s:26:\"([0-9]{4})\/([0-9]{1,2})\/?$\";s:47:\"index.php?year=$matches[1]&monthnum=$matches[2]\";s:43:\"([0-9]{4})\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:43:\"index.php?year=$matches[1]&feed=$matches[2]\";s:38:\"([0-9]{4})\/(feed|rdf|rss|rss2|atom)\/?$\";s:43:\"index.php?year=$matches[1]&feed=$matches[2]\";s:19:\"([0-9]{4})\/embed\/?$\";s:37:\"index.php?year=$matches[1]&embed=true\";s:31:\"([0-9]{4})\/page\/?([0-9]{1,})\/?$\";s:44:\"index.php?year=$matches[1]&paged=$matches[2]\";s:13:\"([0-9]{4})\/?$\";s:26:\"index.php?year=$matches[1]\";s:27:\".?.+?\/attachment\/([^\/]+)\/?$\";s:32:\"index.php?attachment=$matches[1]\";s:37:\".?.+?\/attachment\/([^\/]+)\/trackback\/?$\";s:37:\"index.php?attachment=$matches[1]&tb=1\";s:57:\".?.+?\/attachment\/([^\/]+)\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:49:\"index.php?attachment=$matches[1]&feed=$matches[2]\";s:52:\".?.+?\/attachment\/([^\/]+)\/(feed|rdf|rss|rss2|atom)\/?$\";s:49:\"index.php?attachment=$matches[1]&feed=$matches[2]\";s:52:\".?.+?\/attachment\/([^\/]+)\/comment-page-([0-9]{1,})\/?$\";s:50:\"index.php?attachment=$matches[1]&cpage=$matches[2]\";s:33:\".?.+?\/attachment\/([^\/]+)\/embed\/?$\";s:43:\"index.php?attachment=$matches[1]&embed=true\";s:16:\"(.?.+?)\/embed\/?$\";s:41:\"index.php?pagename=$matches[1]&embed=true\";s:20:\"(.?.+?)\/trackback\/?$\";s:35:\"index.php?pagename=$matches[1]&tb=1\";s:40:\"(.?.+?)\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:47:\"index.php?pagename=$matches[1]&feed=$matches[2]\";s:35:\"(.?.+?)\/(feed|rdf|rss|rss2|atom)\/?$\";s:47:\"index.php?pagename=$matches[1]&feed=$matches[2]\";s:28:\"(.?.+?)\/page\/?([0-9]{1,})\/?$\";s:48:\"index.php?pagename=$matches[1]&paged=$matches[2]\";s:35:\"(.?.+?)\/comment-page-([0-9]{1,})\/?$\";s:48:\"index.php?pagename=$matches[1]&cpage=$matches[2]\";s:24:\"(.?.+?)(?:\/([0-9]+))?\/?$\";s:47:\"index.php?pagename=$matches[1]&page=$matches[2]\";s:27:\"[^\/]+\/attachment\/([^\/]+)\/?$\";s:32:\"index.php?attachment=$matches[1]\";s:37:\"[^\/]+\/attachment\/([^\/]+)\/trackback\/?$\";s:37:\"index.php?attachment=$matches[1]&tb=1\";s:57:\"[^\/]+\/attachment\/([^\/]+)\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:49:\"index.php?attachment=$matches[1]&feed=$matches[2]\";s:52:\"[^\/]+\/attachment\/([^\/]+)\/(feed|rdf|rss|rss2|atom)\/?$\";s:49:\"index.php?attachment=$matches[1]&feed=$matches[2]\";s:52:\"[^\/]+\/attachment\/([^\/]+)\/comment-page-([0-9]{1,})\/?$\";s:50:\"index.php?attachment=$matches[1]&cpage=$matches[2]\";s:33:\"[^\/]+\/attachment\/([^\/]+)\/embed\/?$\";s:43:\"index.php?attachment=$matches[1]&embed=true\";s:16:\"([^\/]+)\/embed\/?$\";s:37:\"index.php?name=$matches[1]&embed=true\";s:20:\"([^\/]+)\/trackback\/?$\";s:31:\"index.php?name=$matches[1]&tb=1\";s:40:\"([^\/]+)\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:43:\"index.php?name=$matches[1]&feed=$matches[2]\";s:35:\"([^\/]+)\/(feed|rdf|rss|rss2|atom)\/?$\";s:43:\"index.php?name=$matches[1]&feed=$matches[2]\";s:28:\"([^\/]+)\/page\/?([0-9]{1,})\/?$\";s:44:\"index.php?name=$matches[1]&paged=$matches[2]\";s:35:\"([^\/]+)\/comment-page-([0-9]{1,})\/?$\";s:44:\"index.php?name=$matches[1]&cpage=$matches[2]\";s:24:\"([^\/]+)(?:\/([0-9]+))?\/?$\";s:43:\"index.php?name=$matches[1]&page=$matches[2]\";s:16:\"[^\/]+\/([^\/]+)\/?$\";s:32:\"index.php?attachment=$matches[1]\";s:26:\"[^\/]+\/([^\/]+)\/trackback\/?$\";s:37:\"index.php?attachment=$matches[1]&tb=1\";s:46:\"[^\/]+\/([^\/]+)\/feed\/(feed|rdf|rss|rss2|atom)\/?$\";s:49:\"index.php?attachment=$matches[1]&feed=$matches[2]\";s:41:\"[^\/]+\/([^\/]+)\/(feed|rdf|rss|rss2|atom)\/?$\";s:49:\"index.php?attachment=$matches[1]&feed=$matches[2]\";s:41:\"[^\/]+\/([^\/]+)\/comment-page-([0-9]{1,})\/?$\";s:50:\"index.php?attachment=$matches[1]&cpage=$matches[2]\";s:22:\"[^\/]+\/([^\/]+)\/embed\/?$\";s:43:\"index.php?attachment=$matches[1]&embed=true\";}",
+  "autoload": "on"
+ },
+ {
+  "option_id": 31,
+  "option_name": "hack_file",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 32,
+  "option_name": "blog_charset",
+  "option_value": "UTF-8",
+  "autoload": "on"
+ },
+ {
+  "option_id": 33,
+  "option_name": "moderation_keys",
+  "autoload": "off"
+ },
+ {
+  "option_id": 34,
+  "option_name": "active_plugins",
+  "option_value": "a:4:{i:1;s:33:\"classic-editor\/classic-editor.php\";i:2;s:36:\"contact-form-7\/wp-contact-form-7.php\";i:3;s:42:\"contact-form-cfdb7\/contact-form-cfdb-7.php\";i:4;s:39:\"wp-migrate-db-pro\/wp-migrate-db-pro.php\";}",
+  "autoload": "on"
+ },
+ {
+  "option_id": 35,
+  "option_name": "category_base",
+  "autoload": "on"
+ },
+ {
+  "option_id": 36,
+  "option_name": "ping_sites",
+  "option_value": "http:\/\/rpc.pingomatic.com\/",
+  "autoload": "on"
+ },
+ {
+  "option_id": 37,
+  "option_name": "comment_max_links",
+  "option_value": "2",
+  "autoload": "on"
+ },
+ {
+  "option_id": 38,
+  "option_name": "gmt_offset",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 39,
+  "option_name": "default_email_category",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 40,
+  "option_name": "recently_edited",
+  "autoload": "off"
+ },
+ {
+  "option_id": 41,
+  "option_name": "template",
+  "option_value": "git-setup",
+  "autoload": "on"
+ },
+ {
+  "option_id": 42,
+  "option_name": "stylesheet",
+  "option_value": "git-setup",
+  "autoload": "on"
+ },
+ {
+  "option_id": 43,
+  "option_name": "comment_registration",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 44,
+  "option_name": "html_type",
+  "option_value": "text\/html",
+  "autoload": "on"
+ },
+ {
+  "option_id": 45,
+  "option_name": "use_trackback",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 46,
+  "option_name": "default_role",
+  "option_value": "subscriber",
+  "autoload": "on"
+ },
+ {
+  "option_id": 47,
+  "option_name": "db_version",
+  "option_value": "58975",
+  "autoload": "on"
+ },
+ {
+  "option_id": 48,
+  "option_name": "uploads_use_yearmonth_folders",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 49,
+  "option_name": "upload_path",
+  "autoload": "on"
+ },
+ {
+  "option_id": 50,
+  "option_name": "blog_public",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 51,
+  "option_name": "default_link_category",
+  "option_value": "2",
+  "autoload": "on"
+ },
+ {
+  "option_id": 52,
+  "option_name": "show_on_front",
+  "option_value": "posts",
+  "autoload": "on"
+ },
+ {
+  "option_id": 53,
+  "option_name": "tag_base",
+  "autoload": "on"
+ },
+ {
+  "option_id": 54,
+  "option_name": "show_avatars",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 55,
+  "option_name": "avatar_rating",
+  "option_value": "G",
+  "autoload": "on"
+ },
+ {
+  "option_id": 56,
+  "option_name": "upload_url_path",
+  "autoload": "on"
+ },
+ {
+  "option_id": 57,
+  "option_name": "thumbnail_size_w",
+  "option_value": "150",
+  "autoload": "on"
+ },
+ {
+  "option_id": 58,
+  "option_name": "thumbnail_size_h",
+  "option_value": "150",
+  "autoload": "on"
+ },
+ {
+  "option_id": 59,
+  "option_name": "thumbnail_crop",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 60,
+  "option_name": "medium_size_w",
+  "option_value": "300",
+  "autoload": "on"
+ },
+ {
+  "option_id": 61,
+  "option_name": "medium_size_h",
+  "option_value": "300",
+  "autoload": "on"
+ },
+ {
+  "option_id": 62,
+  "option_name": "avatar_default",
+  "option_value": "mystery",
+  "autoload": "on"
+ },
+ {
+  "option_id": 63,
+  "option_name": "large_size_w",
+  "option_value": "1024",
+  "autoload": "on"
+ },
+ {
+  "option_id": 64,
+  "option_name": "large_size_h",
+  "option_value": "1024",
+  "autoload": "on"
+ },
+ {
+  "option_id": 65,
+  "option_name": "image_default_link_type",
+  "option_value": "none",
+  "autoload": "on"
+ },
+ {
+  "option_id": 66,
+  "option_name": "image_default_size",
+  "autoload": "on"
+ },
+ {
+  "option_id": 67,
+  "option_name": "image_default_align",
+  "autoload": "on"
+ },
+ {
+  "option_id": 68,
+  "option_name": "close_comments_for_old_posts",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 69,
+  "option_name": "close_comments_days_old",
+  "option_value": "14",
+  "autoload": "on"
+ },
+ {
+  "option_id": 70,
+  "option_name": "thread_comments",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 71,
+  "option_name": "thread_comments_depth",
+  "option_value": "5",
+  "autoload": "on"
+ },
+ {
+  "option_id": 72,
+  "option_name": "page_comments",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 73,
+  "option_name": "comments_per_page",
+  "option_value": "50",
+  "autoload": "on"
+ },
+ {
+  "option_id": 74,
+  "option_name": "default_comments_page",
+  "option_value": "newest",
+  "autoload": "on"
+ },
+ {
+  "option_id": 75,
+  "option_name": "comment_order",
+  "option_value": "asc",
+  "autoload": "on"
+ },
+ {
+  "option_id": 76,
+  "option_name": "sticky_posts",
+  "option_value": "a:0:{}",
+  "autoload": "on"
+ },
+ {
+  "option_id": 77,
+  "option_name": "widget_categories",
+  "option_value": "a:0:{}",
+  "autoload": "on"
+ },
+ {
+  "option_id": 78,
+  "option_name": "widget_text",
+  "option_value": "a:0:{}",
+  "autoload": "on"
+ },
+ {
+  "option_id": 79,
+  "option_name": "widget_rss",
+  "option_value": "a:0:{}",
+  "autoload": "on"
+ },
+ {
+  "option_id": 80,
+  "option_name": "uninstall_plugins",
+  "option_value": "a:0:{}",
+  "autoload": "off"
+ },
+ {
+  "option_id": 81,
+  "option_name": "timezone_string",
+  "autoload": "on"
+ },
+ {
+  "option_id": 82,
+  "option_name": "page_for_posts",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 83,
+  "option_name": "page_on_front",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 84,
+  "option_name": "default_post_format",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 85,
+  "option_name": "link_manager_enabled",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 86,
+  "option_name": "finished_splitting_shared_terms",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 87,
+  "option_name": "site_icon",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 88,
+  "option_name": "medium_large_size_w",
+  "option_value": "768",
+  "autoload": "on"
+ },
+ {
+  "option_id": 89,
+  "option_name": "medium_large_size_h",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 90,
+  "option_name": "wp_page_for_privacy_policy",
+  "option_value": "3",
+  "autoload": "on"
+ },
+ {
+  "option_id": 91,
+  "option_name": "show_comments_cookies_opt_in",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 92,
+  "option_name": "admin_email_lifespan",
+  "option_value": "1750128215",
+  "autoload": "on"
+ },
+ {
+  "option_id": 93,
+  "option_name": "disallowed_keys",
+  "autoload": "off"
+ },
+ {
+  "option_id": 94,
+  "option_name": "comment_previously_approved",
+  "option_value": "1",
+  "autoload": "on"
+ },
+ {
+  "option_id": 95,
+  "option_name": "auto_plugin_theme_update_emails",
+  "option_value": "a:0:{}",
+  "autoload": "off"
+ },
+ {
+  "option_id": 96,
+  "option_name": "auto_update_core_dev",
+  "option_value": "enabled",
+  "autoload": "on"
+ },
+ {
+  "option_id": 97,
+  "option_name": "auto_update_core_minor",
+  "option_value": "enabled",
+  "autoload": "on"
+ },
+ {
+  "option_id": 98,
+  "option_name": "auto_update_core_major",
+  "option_value": "enabled",
+  "autoload": "on"
+ },
+ {
+  "option_id": 99,
+  "option_name": "wp_force_deactivated_plugins",
+  "option_value": "a:0:{}",
+  "autoload": "on"
+ },
+ {
+  "option_id": 100,
+  "option_name": "wp_attachment_pages_enabled",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 101,
+  "option_name": "initial_db_version",
+  "option_value": "58975",
+  "autoload": "on"
+ },
+ {
+  "option_id": 102,
+  "option_name": "wp_user_roles",
+  "option_value": "a:5:{s:13:\"administrator\";a:2:{s:4:\"name\";s:13:\"Administrator\";s:12:\"capabilities\";a:62:{s:13:\"switch_themes\";b:1;s:11:\"edit_themes\";b:1;s:16:\"activate_plugins\";b:1;s:12:\"edit_plugins\";b:1;s:10:\"edit_users\";b:1;s:10:\"edit_files\";b:1;s:14:\"manage_options\";b:1;s:17:\"moderate_comments\";b:1;s:17:\"manage_categories\";b:1;s:12:\"manage_links\";b:1;s:12:\"upload_files\";b:1;s:6:\"import\";b:1;s:15:\"unfiltered_html\";b:1;s:10:\"edit_posts\";b:1;s:17:\"edit_others_posts\";b:1;s:20:\"edit_published_posts\";b:1;s:13:\"publish_posts\";b:1;s:10:\"edit_pages\";b:1;s:4:\"read\";b:1;s:8:\"level_10\";b:1;s:7:\"level_9\";b:1;s:7:\"level_8\";b:1;s:7:\"level_7\";b:1;s:7:\"level_6\";b:1;s:7:\"level_5\";b:1;s:7:\"level_4\";b:1;s:7:\"level_3\";b:1;s:7:\"level_2\";b:1;s:7:\"level_1\";b:1;s:7:\"level_0\";b:1;s:17:\"edit_others_pages\";b:1;s:20:\"edit_published_pages\";b:1;s:13:\"publish_pages\";b:1;s:12:\"delete_pages\";b:1;s:19:\"delete_others_pages\";b:1;s:22:\"delete_published_pages\";b:1;s:12:\"delete_posts\";b:1;s:19:\"delete_others_posts\";b:1;s:22:\"delete_published_posts\";b:1;s:20:\"delete_private_posts\";b:1;s:18:\"edit_private_posts\";b:1;s:18:\"read_private_posts\";b:1;s:20:\"delete_private_pages\";b:1;s:18:\"edit_private_pages\";b:1;s:18:\"read_private_pages\";b:1;s:12:\"delete_users\";b:1;s:12:\"create_users\";b:1;s:17:\"unfiltered_upload\";b:1;s:14:\"edit_dashboard\";b:1;s:14:\"update_plugins\";b:1;s:14:\"delete_plugins\";b:1;s:15:\"install_plugins\";b:1;s:13:\"update_themes\";b:1;s:14:\"install_themes\";b:1;s:11:\"update_core\";b:1;s:10:\"list_users\";b:1;s:12:\"remove_users\";b:1;s:13:\"promote_users\";b:1;s:18:\"edit_theme_options\";b:1;s:13:\"delete_themes\";b:1;s:6:\"export\";b:1;s:12:\"cfdb7_access\";b:1;}}s:6:\"editor\";a:2:{s:4:\"name\";s:6:\"Editor\";s:12:\"capabilities\";a:34:{s:17:\"moderate_comments\";b:1;s:17:\"manage_categories\";b:1;s:12:\"manage_links\";b:1;s:12:\"upload_files\";b:1;s:15:\"unfiltered_html\";b:1;s:10:\"edit_posts\";b:1;s:17:\"edit_others_posts\";b:1;s:20:\"edit_published_posts\";b:1;s:13:\"publish_posts\";b:1;s:10:\"edit_pages\";b:1;s:4:\"read\";b:1;s:7:\"level_7\";b:1;s:7:\"level_6\";b:1;s:7:\"level_5\";b:1;s:7:\"level_4\";b:1;s:7:\"level_3\";b:1;s:7:\"level_2\";b:1;s:7:\"level_1\";b:1;s:7:\"level_0\";b:1;s:17:\"edit_others_pages\";b:1;s:20:\"edit_published_pages\";b:1;s:13:\"publish_pages\";b:1;s:12:\"delete_pages\";b:1;s:19:\"delete_others_pages\";b:1;s:22:\"delete_published_pages\";b:1;s:12:\"delete_posts\";b:1;s:19:\"delete_others_posts\";b:1;s:22:\"delete_published_posts\";b:1;s:20:\"delete_private_posts\";b:1;s:18:\"edit_private_posts\";b:1;s:18:\"read_private_posts\";b:1;s:20:\"delete_private_pages\";b:1;s:18:\"edit_private_pages\";b:1;s:18:\"read_private_pages\";b:1;}}s:6:\"author\";a:2:{s:4:\"name\";s:6:\"Author\";s:12:\"capabilities\";a:10:{s:12:\"upload_files\";b:1;s:10:\"edit_posts\";b:1;s:20:\"edit_published_posts\";b:1;s:13:\"publish_posts\";b:1;s:4:\"read\";b:1;s:7:\"level_2\";b:1;s:7:\"level_1\";b:1;s:7:\"level_0\";b:1;s:12:\"delete_posts\";b:1;s:22:\"delete_published_posts\";b:1;}}s:11:\"contributor\";a:2:{s:4:\"name\";s:11:\"Contributor\";s:12:\"capabilities\";a:5:{s:10:\"edit_posts\";b:1;s:4:\"read\";b:1;s:7:\"level_1\";b:1;s:7:\"level_0\";b:1;s:12:\"delete_posts\";b:1;}}s:10:\"subscriber\";a:2:{s:4:\"name\";s:10:\"Subscriber\";s:12:\"capabilities\";a:2:{s:4:\"read\";b:1;s:7:\"level_0\";b:1;}}}",
+  "autoload": "on"
+ },
+ {
+  "option_id": 103,
+  "option_name": "fresh_site",
+  "option_value": "0",
+  "autoload": "off"
+ },
+ {
+  "option_id": 104,
+  "option_name": "user_count",
+  "option_value": "1",
+  "autoload": "off"
+ },
+ {
+  "option_id": 105,
+  "option_name": "widget_block",
+  "option_value": "a:6:{i:2;a:1:{s:7:\"content\";s:19:\"<!-- wp:search \/-->\";}i:3;a:1:{s:7:\"content\";s:154:\"<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts<\/h2><!-- \/wp:heading --><!-- wp:latest-posts \/--><\/div><!-- \/wp:group -->\";}i:4;a:1:{s:7:\"content\";s:227:\"<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments<\/h2><!-- \/wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} \/--><\/div><!-- \/wp:group -->\";}i:5;a:1:{s:7:\"content\";s:146:\"<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives<\/h2><!-- \/wp:heading --><!-- wp:archives \/--><\/div><!-- \/wp:group -->\";}i:6;a:1:{s:7:\"content\";s:150:\"<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories<\/h2><!-- \/wp:heading --><!-- wp:categories \/--><\/div><!-- \/wp:group -->\";}s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 106,
+  "option_name": "sidebars_widgets",
+  "option_value": "a:3:{s:19:\"wp_inactive_widgets\";a:0:{}s:9:\"sidebar-1\";a:5:{i:0;s:7:\"block-2\";i:1;s:7:\"block-3\";i:2;s:7:\"block-4\";i:3;s:7:\"block-5\";i:4;s:7:\"block-6\";}s:13:\"array_version\";i:3;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 107,
+  "option_name": "widget_pages",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 108,
+  "option_name": "widget_calendar",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 109,
+  "option_name": "widget_archives",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 110,
+  "option_name": "widget_media_audio",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 111,
+  "option_name": "widget_media_image",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 112,
+  "option_name": "widget_media_gallery",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 113,
+  "option_name": "widget_media_video",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 114,
+  "option_name": "widget_meta",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 115,
+  "option_name": "widget_search",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 116,
+  "option_name": "widget_recent-posts",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 117,
+  "option_name": "widget_recent-comments",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 118,
+  "option_name": "widget_tag_cloud",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 119,
+  "option_name": "widget_nav_menu",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 120,
+  "option_name": "widget_custom_html",
+  "option_value": "a:1:{s:12:\"_multiwidget\";i:1;}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 125,
+  "option_name": "recovery_keys",
+  "option_value": "a:0:{}",
+  "autoload": "off"
+ },
+ {
+  "option_id": 127,
+  "option_name": "theme_mods_twentytwentyfive",
+  "option_value": "a:2:{s:18:\"custom_css_post_id\";i:-1;s:16:\"sidebars_widgets\";a:2:{s:4:\"time\";i:1734584140;s:4:\"data\";a:3:{s:19:\"wp_inactive_widgets\";a:0:{}s:9:\"sidebar-1\";a:3:{i:0;s:7:\"block-2\";i:1;s:7:\"block-3\";i:2;s:7:\"block-4\";}s:9:\"sidebar-2\";a:2:{i:0;s:7:\"block-5\";i:1;s:7:\"block-6\";}}}}",
+  "autoload": "off"
+ },
+ {
+  "option_id": 150,
+  "option_name": "can_compress_scripts",
+  "option_value": "0",
+  "autoload": "on"
+ },
+ {
+  "option_id": 152,
+  "option_name": "recently_activated",
+  "option_value": "a:1:{s:34:\"advanced-custom-fields-pro\/acf.php\";i:1735098741;}",
+  "autoload": "off"
+ },
+ {
+  "option_id": 160,
+  "option_name": "finished_updating_comment_type",
+  "option_value": "1",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 164,
+  "option_name": "wpcf7",
+  "option_value": "a:2:{s:7:\"version\";s:5:\"6.0.2\";s:13:\"bulk_validate\";a:4:{s:9:\"timestamp\";i:1734576369;s:7:\"version\";s:5:\"6.0.1\";s:11:\"count_valid\";i:1;s:13:\"count_invalid\";i:0;}}",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 165,
+  "option_name": "cfdb7_view_install_date",
+  "option_value": "2024-12-19 2:46:12",
+  "autoload": "on"
+ },
+ {
+  "option_id": 181,
+  "option_name": "current_theme",
+  "option_value": "git-setup",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 182,
+  "option_name": "theme_mods_git-setup",
+  "option_value": "a:3:{i:0;b:0;s:18:\"nav_menu_locations\";a:0:{}s:18:\"custom_css_post_id\";i:-1;}",
+  "autoload": "on"
+ },
+ {
+  "option_id": 183,
+  "option_name": "theme_switched",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 188,
+  "option_name": "acf_version",
+  "option_value": "6.3.11",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 193,
+  "option_name": "acf_pro_license",
+  "option_value": "YToyOntzOjM6ImtleSI7czo3NjoiYjNKa1pYSmZhV1E5TVRBNE16UXhmSFI1Y0dVOVpHVjJaV3h2Y0dWeWZHUmhkR1U5TWpBeE55MHdOaTB4TXlBeE9Eb3hPRG8wTXc9PSI7czozOiJ1cmwiO3M6MjU6Imh0dHA6Ly9naXRodWItc2V0dXAubG9jYWwiO30=",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 200,
+  "option_name": "acf_pro_license_status",
+  "option_value": "a:11:{s:6:\"status\";s:6:\"active\";s:7:\"created\";i:0;s:6:\"expiry\";i:0;s:4:\"name\";s:9:\"Developer\";s:8:\"lifetime\";b:1;s:8:\"refunded\";b:0;s:17:\"view_licenses_url\";s:62:\"https:\/\/www.advancedcustomfields.com\/my-account\/view-licenses\/\";s:23:\"manage_subscription_url\";s:0:\";s:9:\"error_msg\";s:0:\";s:10:\"next_check\";i:1735118500;s:16:\"legacy_multisite\";b:1;}",
+  "autoload": "on"
+ },
+ {
+  "option_id": 202,
+  "option_name": "acf_site_health",
+  "option_value": "{\"version\":\"6.3.11\",\"plugin_type\":\"PRO\",\"update_source\":\"ACF Direct\",\"activated\":true,\"activated_url\":\"http:\\\/\\\/sonalidev.wpenginepowered.com\\\/\",\"license_type\":\"Developer\",\"license_status\":\"active\",\"subscription_expires\":\",\"wp_version\":\"6.7.1\",\"mysql_version\":\"8.0.16\",\"is_multisite\":false,\"active_theme\":{\"name\":\"git-setup\",\"version\":\"1.0.0\",\"theme_uri\":\"http:\\\/\\\/underscores.me\\\/\",\"stylesheet\":false},\"active_plugins\":{\"advanced-custom-fields-pro\\\/acf.php\":{\"name\":\"Advanced Custom Fields PRO\",\"version\":\"6.3.11\",\"plugin_uri\":\"https:\\\/\\\/www.advancedcustomfields.com\"},\"classic-editor\\\/classic-editor.php\":{\"name\":\"Classic Editor\",\"version\":\"1.6.7\",\"plugin_uri\":\"https:\\\/\\\/wordpress.org\\\/plugins\\\/classic-editor\\\/\"},\"contact-form-7\\\/wp-contact-form-7.php\":{\"name\":\"Contact Form 7\",\"version\":\"6.0.1\",\"plugin_uri\":\"https:\\\/\\\/contactform7.com\\\/\"},\"contact-form-cfdb7\\\/contact-form-cfdb-7.php\":{\"name\":\"Contact Form CFDB7\",\"version\":\"1.2.10\",\"plugin_uri\":\"https:\\\/\\\/ciphercoin.com\\\/\"}},\"ui_field_groups\":\"0\",\"php_field_groups\":\"0\",\"json_field_groups\":\"0\",\"rest_field_groups\":\"0\",\"number_of_fields_by_type\":[],\"number_of_third_party_fields_by_type\":[],\"post_types_enabled\":true,\"ui_post_types\":\"4\",\"json_post_types\":\"0\",\"ui_taxonomies\":\"3\",\"json_taxonomies\":\"0\",\"ui_options_pages_enabled\":true,\"ui_options_pages\":\"0\",\"json_options_pages\":\"0\",\"php_options_pages\":\"0\",\"rest_api_format\":\"light\",\"registered_acf_blocks\":\"0\",\"blocks_per_api_version\":[],\"blocks_per_acf_block_version\":[],\"blocks_using_post_meta\":\"0\",\"preload_blocks\":true,\"admin_ui_enabled\":true,\"field_type-modal_enabled\":true,\"field_settings_tabs_enabled\":false,\"shortcode_enabled\":true,\"registered_acf_forms\":\"0\",\"json_save_paths\":1,\"json_load_paths\":1,\"last_updated\":1734585011,\"event_first_created_field_group\":1734585011}",
+  "autoload": "off"
+ },
+ {
+  "option_id": 203,
+  "option_name": "options_logo",
+  "option_value": "15",
+  "autoload": "off"
+ },
+ {
+  "option_id": 204,
+  "option_name": "_options_logo",
+  "option_value": "field_6763aad848c89",
+  "autoload": "off"
+ },
+ {
+  "option_id": 307,
+  "option_name": "wp_migrate_addon_schema",
+  "option_value": "1",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 325,
+  "option_name": "wpmdb_usage",
+  "option_value": "a:2:{s:6:\"action\";s:8:\"savefile\";s:4:\"time\";i:1735098951;}",
+  "autoload": "off"
+ },
+ {
+  "option_id": 368,
+  "option_name": "WPLANG",
+  "autoload": "auto"
+ },
+ {
+  "option_id": 369,
+  "option_name": "new_admin_email",
+  "option_value": "gauri.techark@gmail.com",
+  "autoload": "auto"
+ }
+],
+"wp_postmeta":[
+ {
+  "meta_id": 1,
+  "post_id": 2,
+  "meta_key": "_wp_page_template",
+  "meta_value": "default"
+ },
+ {
+  "meta_id": 2,
+  "post_id": 3,
+  "meta_key": "_wp_page_template",
+  "meta_value": "default"
+ },
+ {
+  "meta_id": 3,
+  "post_id": 6,
+  "meta_key": "_form",
+  "meta_value": "<label> Your namen    [text* your-name autocomplete:name] <\/label>nn<label> Your emailn    [email* your-email autocomplete:email] <\/label>nn<label> Subjectn    [text* your-subject] <\/label>nn<label> Your message (optional)n    [textarea your-message] <\/label>nn[submit \"Submit\"]"
+ },
+ {
+  "meta_id": 4,
+  "post_id": 6,
+  "meta_key": "_mail",
+  "meta_value": "a:9:{s:6:\"active\";b:1;s:7:\"subject\";s:30:\"[_site_title] \"[your-subject]\";s:6:\"sender\";s:44:\"[_site_title] <wordpress@github-setup.local>\";s:9:\"recipient\";s:19:\"[_site_admin_email]\";s:4:\"body\";s:191:\"From: [your-name] [your-email]nSubject: [your-subject]nnMessage Body:n[your-message]nn-- nThis is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).\";s:18:\"additional_headers\";s:22:\"Reply-To: [your-email]\";s:11:\"attachments\";s:0:\";s:8:\"use_html\";b:0;s:13:\"exclude_blank\";b:0;}"
+ },
+ {
+  "meta_id": 5,
+  "post_id": 6,
+  "meta_key": "_mail_2",
+  "meta_value": "a:9:{s:6:\"active\";b:0;s:7:\"subject\";s:30:\"[_site_title] \"[your-subject]\";s:6:\"sender\";s:44:\"[_site_title] <wordpress@github-setup.local>\";s:9:\"recipient\";s:12:\"[your-email]\";s:4:\"body\";s:220:\"Message Body:n[your-message]nn-- nThis email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.\";s:18:\"additional_headers\";s:29:\"Reply-To: [_site_admin_email]\";s:11:\"attachments\";s:0:\";s:8:\"use_html\";b:0;s:13:\"exclude_blank\";b:0;}"
+ },
+ {
+  "meta_id": 6,
+  "post_id": 6,
+  "meta_key": "_messages",
+  "meta_value": "a:22:{s:12:\"mail_sent_ok\";s:45:\"Thank you for your message. It has been sent.\";s:12:\"mail_sent_ng\";s:71:\"There was an error trying to send your message. Please try again later.\";s:16:\"validation_error\";s:61:\"One or more fields have an error. Please check and try again.\";s:4:\"spam\";s:71:\"There was an error trying to send your message. Please try again later.\";s:12:\"accept_terms\";s:69:\"You must accept the terms and conditions before sending your message.\";s:16:\"invalid_required\";s:27:\"Please fill out this field.\";s:16:\"invalid_too_long\";s:32:\"This field has a too long input.\";s:17:\"invalid_too_short\";s:33:\"This field has a too short input.\";s:13:\"upload_failed\";s:46:\"There was an unknown error uploading the file.\";s:24:\"upload_file_type_invalid\";s:49:\"You are not allowed to upload files of this type.\";s:21:\"upload_file_too_large\";s:31:\"The uploaded file is too large.\";s:23:\"upload_failed_php_error\";s:38:\"There was an error uploading the file.\";s:12:\"invalid_date\";s:41:\"Please enter a date in YYYY-MM-DD format.\";s:14:\"date_too_early\";s:32:\"This field has a too early date.\";s:13:\"date_too_late\";s:31:\"This field has a too late date.\";s:14:\"invalid_number\";s:22:\"Please enter a number.\";s:16:\"number_too_small\";s:34:\"This field has a too small number.\";s:16:\"number_too_large\";s:34:\"This field has a too large number.\";s:23:\"quiz_answer_not_correct\";s:36:\"The answer to the quiz is incorrect.\";s:13:\"invalid_email\";s:30:\"Please enter an email address.\";s:11:\"invalid_url\";s:19:\"Please enter a URL.\";s:11:\"invalid_tel\";s:32:\"Please enter a telephone number.\";}"
+ },
+ {
+  "meta_id": 7,
+  "post_id": 6,
+  "meta_key": "_additional_settings"
+ },
+ {
+  "meta_id": 8,
+  "post_id": 6,
+  "meta_key": "_locale",
+  "meta_value": "en_US"
+ },
+ {
+  "meta_id": 9,
+  "post_id": 6,
+  "meta_key": "_hash",
+  "meta_value": "dd66a0c89119b34b51f640163870e0949f197038"
+ },
+ {
+  "meta_id": 14,
+  "post_id": 10,
+  "meta_key": "_edit_last",
+  "meta_value": "1"
+ },
+ {
+  "meta_id": 15,
+  "post_id": 10,
+  "meta_key": "_edit_lock",
+  "meta_value": "1734941084:1"
+ },
+ {
+  "meta_id": 16,
+  "post_id": 15,
+  "meta_key": "_wp_attached_file",
+  "meta_value": "2024\/12\/background.jpg"
+ },
+ {
+  "meta_id": 17,
+  "post_id": 15,
+  "meta_key": "_wp_attachment_metadata",
+  "meta_value": "a:6:{s:5:\"width\";i:1920;s:6:\"height\";i:950;s:4:\"file\";s:22:\"2024\/12\/background.jpg\";s:8:\"filesize\";i:2105783;s:5:\"sizes\";a:5:{s:6:\"medium\";a:5:{s:4:\"file\";s:22:\"background-300x148.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:148;s:9:\"mime-type\";s:10:\"image\/jpeg\";s:8:\"filesize\";i:17970;}s:5:\"large\";a:5:{s:4:\"file\";s:23:\"background-1024x507.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:507;s:9:\"mime-type\";s:10:\"image\/jpeg\";s:8:\"filesize\";i:153070;}s:9:\"thumbnail\";a:5:{s:4:\"file\";s:22:\"background-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";s:8:\"filesize\";i:9039;}s:12:\"medium_large\";a:5:{s:4:\"file\";s:22:\"background-768x380.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:380;s:9:\"mime-type\";s:10:\"image\/jpeg\";s:8:\"filesize\";i:92169;}s:9:\"1536x1536\";a:5:{s:4:\"file\";s:23:\"background-1536x760.jpg\";s:5:\"width\";i:1536;s:6:\"height\";i:760;s:9:\"mime-type\";s:10:\"image\/jpeg\";s:8:\"filesize\";i:300933;}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\";s:6:\"camera\";s:0:\";s:7:\"caption\";s:0:\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+ },
+ {
+  "meta_id": 18,
+  "post_id": 17,
+  "meta_key": "_edit_last",
+  "meta_value": "1"
+ },
+ {
+  "meta_id": 19,
+  "post_id": 17,
+  "meta_key": "_edit_lock",
+  "meta_value": "1735098628:1"
+ },
+ {
+  "meta_id": 20,
+  "post_id": 19,
+  "meta_key": "_edit_last",
+  "meta_value": "1"
+ },
+ {
+  "meta_id": 21,
+  "post_id": 19,
+  "meta_key": "_edit_lock",
+  "meta_value": "1734602329:1"
+ },
+ {
+  "meta_id": 22,
+  "post_id": 17,
+  "meta_key": "banner_section_banner_title",
+  "meta_value": "This is dummy Banner Title"
+ },
+ {
+  "meta_id": 23,
+  "post_id": 17,
+  "meta_key": "_banner_section_banner_title",
+  "meta_value": "field_6763d31e83021"
+ },
+ {
+  "meta_id": 24,
+  "post_id": 17,
+  "meta_key": "banner_section"
+ },
+ {
+  "meta_id": 25,
+  "post_id": 17,
+  "meta_key": "_banner_section",
+  "meta_value": "field_6763d30483020"
+ }
+],
+"wp_posts":[
+ {
+  "ID": 1,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "<!-- wp:paragraph -->n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!<\/p>n<!-- \/wp:paragraph -->",
+  "post_title": "Hello world!",
+  "post_status": "publish",
+  "comment_status": "open",
+  "ping_status": "open",
+  "post_name": "hello-world",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 0,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?p=1",
+  "menu_order": 0,
+  "post_type": "post",
+  "comment_count": 1
+ },
+ {
+  "ID": 2,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "<!-- wp:paragraph -->n<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:<\/p>n<!-- \/wp:paragraph -->nn<!-- wp:quote -->n<blockquote class=\"wp-block-quote\"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)<\/p><\/blockquote>n<!-- \/wp:quote -->nn<!-- wp:paragraph -->n<p>...or something like this:<\/p>n<!-- \/wp:paragraph -->nn<!-- wp:quote -->n<blockquote class=\"wp-block-quote\"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.<\/p><\/blockquote>n<!-- \/wp:quote -->nn<!-- wp:paragraph -->n<p>As a new WordPress user, you should go to <a href=\"http:\/\/sonalidev.wpenginepowered.com\/\/wp-admin\/\">your dashboard<\/a> to delete this page and create new pages for your content. Have fun!<\/p>n<!-- \/wp:paragraph -->",
+  "post_title": "Sample Page",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "open",
+  "post_name": "sample-page",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 0,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?page_id=2",
+  "menu_order": 0,
+  "post_type": "page",
+  "comment_count": 0
+ },
+ {
+  "ID": 3,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "<!-- wp:heading -->n<h2 class=\"wp-block-heading\">Who we are<\/h2>n<!-- \/wp:heading -->n<!-- wp:paragraph -->n<p><strong class=\"privacy-policy-tutorial\">Suggested text: <\/strong>Our website address is: http:\/\/sonalidev.wpenginepowered.com\/.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:heading -->n<h2 class=\"wp-block-heading\">Comments<\/h2>n<!-- \/wp:heading -->n<!-- wp:paragraph -->n<p><strong class=\"privacy-policy-tutorial\">Suggested text: <\/strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:paragraph -->n<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https:\/\/automattic.com\/privacy\/. After approval of your comment, your profile picture is visible to the public in the context of your comment.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:heading -->n<h2 class=\"wp-block-heading\">Media<\/h2>n<!-- \/wp:heading -->n<!-- wp:paragraph -->n<p><strong class=\"privacy-policy-tutorial\">Suggested text: <\/strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:heading -->n<h2 class=\"wp-block-heading\">Cookies<\/h2>n<!-- \/wp:heading -->n<!-- wp:paragraph -->n<p><strong class=\"privacy-policy-tutorial\">Suggested text: <\/strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:paragraph -->n<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:paragraph -->n<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:paragraph -->n<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:heading -->n<h2 class=\"wp-block-heading\">Embedded content from other websites<\/h2>n<!-- \/wp:heading -->n<!-- wp:paragraph -->n<p><strong class=\"privacy-policy-tutorial\">Suggested text: <\/strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:paragraph -->n<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:heading -->n<h2 class=\"wp-block-heading\">Who we share your data with<\/h2>n<!-- \/wp:heading -->n<!-- wp:paragraph -->n<p><strong class=\"privacy-policy-tutorial\">Suggested text: <\/strong>If you request a password reset, your IP address will be included in the reset email.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:heading -->n<h2 class=\"wp-block-heading\">How long we retain your data<\/h2>n<!-- \/wp:heading -->n<!-- wp:paragraph -->n<p><strong class=\"privacy-policy-tutorial\">Suggested text: <\/strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:paragraph -->n<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:heading -->n<h2 class=\"wp-block-heading\">What rights you have over your data<\/h2>n<!-- \/wp:heading -->n<!-- wp:paragraph -->n<p><strong class=\"privacy-policy-tutorial\">Suggested text: <\/strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.<\/p>n<!-- \/wp:paragraph -->n<!-- wp:heading -->n<h2 class=\"wp-block-heading\">Where your data is sent<\/h2>n<!-- \/wp:heading -->n<!-- wp:paragraph -->n<p><strong class=\"privacy-policy-tutorial\">Suggested text: <\/strong>Visitor comments may be checked through an automated spam detection service.<\/p>n<!-- \/wp:paragraph -->n",
+  "post_title": "Privacy Policy",
+  "post_status": "draft",
+  "comment_status": "closed",
+  "ping_status": "open",
+  "post_name": "privacy-policy",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 0,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?page_id=3",
+  "menu_order": 0,
+  "post_type": "page",
+  "comment_count": 0
+ },
+ {
+  "ID": 4,
+  "post_author": 0,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "<!-- wp:page-list \/-->",
+  "post_title": "Navigation",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "navigation",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 0,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/navigation\/",
+  "menu_order": 0,
+  "post_type": "wp_navigation",
+  "comment_count": 0
+ },
+ {
+  "ID": 5,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "0000-00-00 00:00:00",
+  "post_title": "Auto Draft",
+  "post_status": "auto-draft",
+  "comment_status": "open",
+  "ping_status": "open",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "0000-00-00 00:00:00",
+  "post_parent": 0,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?p=5",
+  "menu_order": 0,
+  "post_type": "post",
+  "comment_count": 0
+ },
+ {
+  "ID": 6,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "<label> Your namern    [text* your-name autocomplete:name] <\/label>rnrn<label> Your emailrn    [email* your-email autocomplete:email] <\/label>rnrn<label> Subjectrn    [text* your-subject] <\/label>rnrn<label> Your message (optional)rn    [textarea your-message] <\/label>rnrn[submit \"Submit\"]n1n[_site_title] \"[your-subject]\"n[_site_title] <wordpress@github-setup.local>n[_site_admin_email]nFrom: [your-name] [your-email]rnSubject: [your-subject]rnrnMessage Body:rn[your-message]rnrn-- rnThis is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).nReply-To: [your-email]nnnnn[_site_title] \"[your-subject]\"n[_site_title] <wordpress@github-setup.local>n[your-email]nMessage Body:rn[your-message]rnrn-- rnThis email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.nReply-To: [_site_admin_email]nnnnThank you for your message. It has been sent.nThere was an error trying to send your message. Please try again later.nOne or more fields have an error. Please check and try again.nThere was an error trying to send your message. Please try again later.nYou must accept the terms and conditions before sending your message.nPlease fill out this field.nThis field has a too long input.nThis field has a too short input.nThere was an unknown error uploading the file.nYou are not allowed to upload files of this type.nThe uploaded file is too large.nThere was an error uploading the file.nPlease enter a date in YYYY-MM-DD format.nThis field has a too early date.nThis field has a too late date.nPlease enter a number.nThis field has a too small number.nThis field has a too large number.nThe answer to the quiz is incorrect.nPlease enter an email address.nPlease enter a URL.nPlease enter a telephone number.",
+  "post_title": "Contact form",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "contact-form-1",
+  "post_modified": "12\/24\/2024",
+  "post_modified_gmt": "12\/24\/2024",
+  "post_parent": 0,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?post_type=wpcf7_contact_form&#038;p=6",
+  "menu_order": 0,
+  "post_type": "wpcf7_contact_form",
+  "comment_count": 0
+ },
+ {
+  "ID": 9,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "0000-00-00 00:00:00",
+  "post_title": "Auto Draft",
+  "post_status": "auto-draft",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "0000-00-00 00:00:00",
+  "post_parent": 0,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?post_type=acf-field-group&p=9",
+  "menu_order": 0,
+  "post_type": "acf-field-group",
+  "comment_count": 0
+ },
+ {
+  "ID": 10,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "a:8:{s:8:\"location\";a:1:{i:0;a:1:{i:0;a:3:{s:5:\"param\";s:12:\"options_page\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:13:\"theme-options\";}}}s:8:\"position\";s:6:\"normal\";s:5:\"style\";s:7:\"default\";s:15:\"label_placement\";s:3:\"top\";s:21:\"instruction_placement\";s:5:\"label\";s:14:\"hide_on_screen\";s:0:\";s:11:\"description\";s:0:\";s:12:\"show_in_rest\";i:0;}",
+  "post_title": "Theme options",
+  "post_excerpt": "theme-options",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "group_6763aa80df439",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 0,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?post_type=acf-field-group&#038;p=10",
+  "menu_order": 0,
+  "post_type": "acf-field-group",
+  "comment_count": 0
+ },
+ {
+  "ID": 11,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "a:9:{s:10:\"aria-label\";s:0:\";s:4:\"type\";s:3:\"tab\";s:12:\"instructions\";s:0:\";s:8:\"required\";b:0;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\";s:5:\"class\";s:0:\";s:2:\"id\";s:0:\";}s:9:\"placement\";s:3:\"top\";s:8:\"endpoint\";i:0;s:8:\"selected\";i:0;}",
+  "post_title": "Header",
+  "post_excerpt": "header",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "field_6763aa8278748",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 10,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?post_type=acf-field&p=11",
+  "menu_order": 0,
+  "post_type": "acf-field",
+  "comment_count": 0
+ },
+ {
+  "ID": 12,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "a:9:{s:10:\"aria-label\";s:0:\";s:4:\"type\";s:3:\"tab\";s:12:\"instructions\";s:0:\";s:8:\"required\";b:0;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\";s:5:\"class\";s:0:\";s:2:\"id\";s:0:\";}s:9:\"placement\";s:3:\"top\";s:8:\"endpoint\";i:0;s:8:\"selected\";i:0;}",
+  "post_title": "Footer",
+  "post_excerpt": "header_copy",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "field_6763aa9978749",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 10,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?post_type=acf-field&#038;p=12",
+  "menu_order": 2,
+  "post_type": "acf-field",
+  "comment_count": 0
+ },
+ {
+  "ID": 13,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "a:9:{s:10:\"aria-label\";s:0:\";s:4:\"type\";s:3:\"tab\";s:12:\"instructions\";s:0:\";s:8:\"required\";b:0;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\";s:5:\"class\";s:0:\";s:2:\"id\";s:0:\";}s:9:\"placement\";s:3:\"top\";s:8:\"endpoint\";i:0;s:8:\"selected\";i:0;}",
+  "post_title": "General",
+  "post_excerpt": "general",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "field_6763aaa17874a",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 10,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?post_type=acf-field&#038;p=13",
+  "menu_order": 4,
+  "post_type": "acf-field",
+  "comment_count": 0
+ },
+ {
+  "ID": 14,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "a:17:{s:10:\"aria-label\";s:0:\";s:4:\"type\";s:5:\"image\";s:12:\"instructions\";s:0:\";s:8:\"required\";i:0;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\";s:5:\"class\";s:0:\";s:2:\"id\";s:0:\";}s:13:\"return_format\";s:5:\"array\";s:7:\"library\";s:3:\"all\";s:9:\"min_width\";s:0:\";s:10:\"min_height\";s:0:\";s:8:\"min_size\";s:0:\";s:9:\"max_width\";s:0:\";s:10:\"max_height\";s:0:\";s:8:\"max_size\";s:0:\";s:10:\"mime_types\";s:0:\";s:17:\"allow_in_bindings\";i:0;s:12:\"preview_size\";s:6:\"medium\";}",
+  "post_title": "Logo",
+  "post_excerpt": "logo",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "field_6763aad848c89",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 10,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?post_type=acf-field&p=14",
+  "menu_order": 1,
+  "post_type": "acf-field",
+  "comment_count": 0
+ },
+ {
+  "ID": 15,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_title": "background",
+  "post_status": "inherit",
+  "comment_status": "open",
+  "ping_status": "closed",
+  "post_name": "background",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 0,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/wp-content\/uploads\/2024\/12\/background.jpg",
+  "menu_order": 0,
+  "post_type": "attachment",
+  "post_mime_type": "image\/jpeg",
+  "comment_count": 0
+ },
+ {
+  "ID": 16,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "a:12:{s:10:\"aria-label\";s:0:\";s:4:\"type\";s:7:\"wysiwyg\";s:12:\"instructions\";s:0:\";s:8:\"required\";i:0;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\";s:5:\"class\";s:0:\";s:2:\"id\";s:0:\";}s:13:\"default_value\";s:0:\";s:17:\"allow_in_bindings\";i:0;s:4:\"tabs\";s:3:\"all\";s:7:\"toolbar\";s:4:\"full\";s:12:\"media_upload\";i:1;s:5:\"delay\";i:0;}",
+  "post_title": "Copywrite text",
+  "post_excerpt": "copywrite_text",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "field_6763c2266e47b",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 10,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?post_type=acf-field&#038;p=16",
+  "menu_order": 3,
+  "post_type": "acf-field",
+  "comment_count": 0
+ },
+ {
+  "ID": 17,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_title": "New Home Page",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "home-page",
+  "post_modified": "12\/25\/2024",
+  "post_modified_gmt": "12\/25\/2024",
+  "post_parent": 0,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?page_id=17",
+  "menu_order": 0,
+  "post_type": "page",
+  "comment_count": 0
+ },
+ {
+  "ID": 19,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "a:8:{s:8:\"location\";a:1:{i:0;a:1:{i:0;a:3:{s:5:\"param\";s:4:\"page\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:2:\"17\";}}}s:8:\"position\";s:6:\"normal\";s:5:\"style\";s:7:\"default\";s:15:\"label_placement\";s:3:\"top\";s:21:\"instruction_placement\";s:5:\"label\";s:14:\"hide_on_screen\";a:1:{i:0;s:11:\"the_content\";}s:11:\"description\";s:0:\";s:12:\"show_in_rest\";i:0;}",
+  "post_title": "Home PageMetabox",
+  "post_excerpt": "home-pagemetabox",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "group_6763d3027126e",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 0,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?post_type=acf-field-group&#038;p=19",
+  "menu_order": 0,
+  "post_type": "acf-field-group",
+  "comment_count": 0
+ },
+ {
+  "ID": 20,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "a:8:{s:10:\"aria-label\";s:0:\";s:4:\"type\";s:5:\"group\";s:12:\"instructions\";s:0:\";s:8:\"required\";i:0;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\";s:5:\"class\";s:0:\";s:2:\"id\";s:0:\";}s:6:\"layout\";s:5:\"block\";s:10:\"sub_fields\";a:0:{}}",
+  "post_title": "Banner Section",
+  "post_excerpt": "banner_section",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "field_6763d30483020",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 19,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?post_type=acf-field&p=20",
+  "menu_order": 0,
+  "post_type": "acf-field",
+  "comment_count": 0
+ },
+ {
+  "ID": 21,
+  "post_author": 1,
+  "post_date": "12\/19\/2024",
+  "post_date_gmt": "12\/19\/2024",
+  "post_content": "a:12:{s:10:\"aria-label\";s:0:\";s:4:\"type\";s:4:\"text\";s:12:\"instructions\";s:0:\";s:8:\"required\";i:0;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\";s:5:\"class\";s:0:\";s:2:\"id\";s:0:\";}s:13:\"default_value\";s:0:\";s:9:\"maxlength\";s:0:\";s:17:\"allow_in_bindings\";i:0;s:11:\"placeholder\";s:0:\";s:7:\"prepend\";s:0:\";s:6:\"append\";s:0:\";}",
+  "post_title": "Banner Title",
+  "post_excerpt": "banner_title",
+  "post_status": "publish",
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "post_name": "field_6763d31e83021",
+  "post_modified": "12\/19\/2024",
+  "post_modified_gmt": "12\/19\/2024",
+  "post_parent": 20,
+  "guid": "http:\/\/sonalidev.wpenginepowered.com\/\/?post_type=acf-field&p=21",
+  "menu_order": 0,
+  "post_type": "acf-field",
+  "comment_count": 0
+ }
+],
+"wp_term_relationships":[
+ {
+  "object_id": 1,
+  "term_taxonomy_id": 1,
+  "term_order": 0
+ }
+],
+"wp_term_taxonomy":[
+ {
+  "term_taxonomy_id": 1,
+  "term_id": 1,
+  "taxonomy": "category",
+  "parent": 0,
+  "count": 1
+ }
+],
+"wp_terms":[
+ {
+  "term_id": 1,
+  "name": "Uncategorized",
+  "slug": "uncategorized",
+  "term_group": 0
+ }
+],
+"wp_usermeta":[
+ {
+  "umeta_id": 1,
+  "user_id": 1,
+  "meta_key": "nickname",
+  "meta_value": "gauri.techark@gmail.com"
+ },
+ {
+  "umeta_id": 2,
+  "user_id": 1,
+  "meta_key": "first_name"
+ },
+ {
+  "umeta_id": 3,
+  "user_id": 1,
+  "meta_key": "last_name"
+ },
+ {
+  "umeta_id": 4,
+  "user_id": 1,
+  "meta_key": "description"
+ },
+ {
+  "umeta_id": 5,
+  "user_id": 1,
+  "meta_key": "rich_editing",
+  "meta_value": "true"
+ },
+ {
+  "umeta_id": 6,
+  "user_id": 1,
+  "meta_key": "syntax_highlighting",
+  "meta_value": "true"
+ },
+ {
+  "umeta_id": 7,
+  "user_id": 1,
+  "meta_key": "comment_shortcuts",
+  "meta_value": "false"
+ },
+ {
+  "umeta_id": 8,
+  "user_id": 1,
+  "meta_key": "admin_color",
+  "meta_value": "fresh"
+ },
+ {
+  "umeta_id": 9,
+  "user_id": 1,
+  "meta_key": "use_ssl",
+  "meta_value": "0"
+ },
+ {
+  "umeta_id": 10,
+  "user_id": 1,
+  "meta_key": "show_admin_bar_front",
+  "meta_value": "true"
+ },
+ {
+  "umeta_id": 11,
+  "user_id": 1,
+  "meta_key": "locale"
+ },
+ {
+  "umeta_id": 12,
+  "user_id": 1,
+  "meta_key": "wp_capabilities",
+  "meta_value": "a:1:{s:13:\"administrator\";b:1;}"
+ },
+ {
+  "umeta_id": 13,
+  "user_id": 1,
+  "meta_key": "wp_user_level",
+  "meta_value": "10"
+ },
+ {
+  "umeta_id": 14,
+  "user_id": 1,
+  "meta_key": "dismissed_wp_pointers"
+ },
+ {
+  "umeta_id": 15,
+  "user_id": 1,
+  "meta_key": "show_welcome_panel",
+  "meta_value": "1"
+ },
+ {
+  "umeta_id": 16,
+  "user_id": 1,
+  "meta_key": "session_tokens",
+  "meta_value": "a:1:{s:64:\"095308c0a780f4c22f433914bf93ed40859da871d1d2cb61986907ffe7e49fc3\";a:4:{s:10:\"expiration\";i:1735785848;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:111:\"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36\";s:5:\"login\";i:1734576248;}}"
+ },
+ {
+  "umeta_id": 17,
+  "user_id": 1,
+  "meta_key": "wp_dashboard_quick_press_last_post_id",
+  "meta_value": "5"
+ },
+ {
+  "umeta_id": 18,
+  "user_id": 1,
+  "meta_key": "wp_user-settings",
+  "meta_value": "libraryContent=browse"
+ },
+ {
+  "umeta_id": 19,
+  "user_id": 1,
+  "meta_key": "wp_user-settings-time",
+  "meta_value": "1734585101"
+ },
+ {
+  "umeta_id": 20,
+  "user_id": 1,
+  "meta_key": "wpmdb_licence_key",
+  "meta_value": "aaeeccc0-2ce7-4bac-adb8-f3af7a047ae3"
+ }
+],
+"wp_users":[
+ {
+  "ID": 1,
+  "user_login": "gauri.techark@gmail.com",
+  "user_pass": "$P$BdYkVBAb96wnmD1qW.cSoizj39cUvS1",
+  "user_nicename": "gauri-techarkgmail-com",
+  "user_email": "gauri.techark@gmail.com",
+  "user_url": "http:\/\/sonalidev.wpenginepowered.com\/",
+  "user_registered": "12\/19\/2024",
+  "user_status": 0,
+  "display_name": "gauri.techark@gmail.com"
+ }
+]
+}
