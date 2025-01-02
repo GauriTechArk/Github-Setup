@@ -140,6 +140,7 @@ add_action( 'widgets_init', 'git_setup_widgets_init' );
 function git_setup_scripts() {
 	wp_enqueue_style( 'git-setup-style', get_stylesheet_uri(), array(), _S_VERSION );
 	wp_style_add_data( 'git-setup-style', 'rtl', 'replace' );
+	wp_enqueue_style( 'git-setup-home-css', get_stylesheet_directory_uri().'/assets/css/home.css', array(), time(), 'all');
 
 	wp_enqueue_script( 'git-setup-navigation', get_template_directory_uri() . '/js/navigation.js', array(), _S_VERSION, true );
 
